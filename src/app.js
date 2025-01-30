@@ -1,3 +1,9 @@
+document.body.style = `
+  background-color: #044;
+  color: #FFF
+`
+
+
 document.body.innerHTML = `
 <pre>
 okay
@@ -49,7 +55,8 @@ Tension on the internet
   Yo, when I was a little kid... I had this dream
   There were two massive metal bodies moving apart
   and they were stretching this tiny fishing line.
-  And it was accompanied by 
+  And it was accompanied by a feeling I only remember from that
+  dream.
 I'll experiment with the new forms of publishing written work
 that can't work on paper
 with internet you can
@@ -65,7 +72,9 @@ I don't like how bad choices pile up on it
 [designing systems that will have stuff built on top]
 ...
 on structural text editors
-  macros
+  reader macros break them
+  knobs, staff
+  too voodoo?
 the deal with lisp
 The methodology of organization
   Premature organization leads to spurious abstraction
